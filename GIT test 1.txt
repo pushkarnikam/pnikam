@@ -1,0 +1,1 @@
+de-DE.target.name.rule=replace::gitsource_en##gittarget_dede-DE.target.name.rule=replace::gitsource_en##gittarget_dede-DE.target.name.rule=replace::gitsource_en##gittarget_de
